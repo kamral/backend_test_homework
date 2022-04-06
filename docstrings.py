@@ -6,3 +6,5 @@ print(math.__doc__)
     defined by the C standard.
 '''
 
+print(math.sqrt.__doc__)
+'''Return the square root of x.'''
